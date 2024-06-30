@@ -51,6 +51,7 @@ OBS: O ideal para o projeto seria um resistor de 100Ω e 2W entre o diodo zener 
 <img src="Esquemático.png">
 
 ## PCB no EAGLE
+<img src="PCB.png">
 
 ## Foto da Protoboard
 
