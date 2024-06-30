@@ -3,23 +3,23 @@
 Este é o projeto da discilina de eletônica para computação feita por alunos da USP de São Carlos.
 A construção em questão é capaz de transformar corrente alternada de 127V em corrente contínua com a tenção ajustavel (3-12V)
 
-##Explicação dos componentes:
+## Explicação dos componentes:
 * ### Transformador
   Ele é o primeiro lugar que a corrente proveniente da tomada irá passar, esse, é responsável por converter a corrente de 127V em 18V
 * ### Ponte de diodos retificadores
   Permite que o cricuito seja alimentado por ambos os sentidos da corrente alternada mas flua em um único sentido
 * ### Capacitor
- Dispositivo que, por ser capaz de armazenar carga, é usado para minimizar as oscilações na tensão. O capacitor fornece corrente ao circuito quando a tensão cai e é recarregado pelo transformador quando a tensão aumenta novamente.
+  Dispositivo que, por ser capaz de armazenar carga, é usado para minimizar as oscilações na tensão. O capacitor fornece corrente ao circuito quando a tensão cai e é recarregado pelo transformador quando a tensão aumenta novamente.
 * ### Diodo Zener
-  O diodo Zener permite que a corrente flua em apenas um sentido quando a tensão atinge um valor específico, que neste projeto é 13V. Ao ser atingida essa tensão, a máxima tensão entre os terminais do diodo se estabiliza, regulando o circuito. Se a tensão for inferior a 13V, o diodo não conduz e não interfere no circuito. Se a tensão exceder 13V, o diodo permite a passagem da corrente, estabilizando a tensão em 13V
-* ###Potenciômetro
+  O diodo Zener permite que a corrente flua em apenas um sentido quando a tensão atinge um valor específico, que neste projeto é 13V. Ao ser atingida essa tensão, a máxima tensão entre os terminais do diodo se estabiliza, regulando o circuito. Se a tensão for     inferior a 13V, o diodo não conduz e não interfere no circuito. Se a tensão exceder 13V, o diodo permite a passagem da corrente, estabilizando a tensão em 13V
+* ### Potenciômetro
   Tem a função de um resistor que pode variar, ele é capaz de controlar qual a potencia da saida (3 a 12V)
-* ###Resistores
+* ### Resistores
   Possuem o papel de regular a corrente de acordo com as especificações dos outros componentes
-* ###LED
+* ### LED
   Apenas um indicador visual para sabermos se a corrente passa ou não
 
-###Lista com os preços
+### Lista com os preços
 | Componente | Qtd | Total R$ |
 | ---------- | --- | -------- |
 | Protoboard | 1 | emprestado |
@@ -54,7 +54,7 @@ OBS: O ideal para o projeto seria um resistor de 100Ω e 2W entre o diodo zener 
 ## Foto da Protoboard
 
 ## Membros do grupo
-  *Artur Domitti Camargo - 15441661
-  *Joao Pedro Daleffe Dias - 15463342
-  *Lucas Mello Ciosaki - 14591305
-  *Renan Banci Catarin - 14658181 
+  * Artur Domitti Camargo - 15441661
+  * Joao Pedro Daleffe Dias - 15463342
+  * Lucas Mello Ciosaki - 14591305
+  * Renan Banci Catarin - 14658181 
