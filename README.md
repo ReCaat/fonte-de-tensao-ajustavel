@@ -39,7 +39,7 @@ A construção em questão é capaz de transformar corrente alternada de 127V em
 Total: 16,36
 *Os componentes foram comprados na loja Ca And Ma
 
-OBS: O ideal para o projeto seria um resistor de 100Ω e 2W entre o diodo zener e o transistor no lugar do resistor de 120Ω e 2W, porém, não foi achado um componente com essas especificações nas lojas da cidadade. Esse imprevisto gerou duas possibilidades, usar um resistor de 100Ω (pequeno) e por consequencia esquentar muito e causar problemas no circuito, ou usar o resistor de 120Ω e 5W, o que impossibilitou obter os 12 Volts esperados por poucas casas decimais.
+OBS: O ideal para o projeto seria um resistor de 100Ω e 2W entre o diodo zener e o transistor no lugar do resistor de 120Ω e 2W, porém, não foi achado um componente com essas especificações nas lojas da cidadade. Esse imprevisto gerou duas possibilidades, usar um resistor de 100Ω (pequeno) e por consequencia esquentar muito (solução optada), ou usar um resistor de 120Ω e 5W, o que impossibilitou obter os 12 Volts esperados por poucas casas decimais.
 
 ## Cálculos
 
