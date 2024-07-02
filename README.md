@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=jUP7bq_nxrs&ab_channel=JonasKaitaUSP
 
 ## Simulação no Falstad
 <img src="CircuitoFalstad.png">
-https://www.falstad.com/circuit/circuitjs.html
+[https://www.falstad.com/circuit/circuitjs.html](https://tinyurl.com/2fyvzy4z)
 
 ## Esquemático no EAGLE
 <img src="Esquemático.png">
