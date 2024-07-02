@@ -46,6 +46,7 @@ OBS: O ideal para o projeto seria um resistor de 100Ω e 2W entre o diodo zener 
 ## Vídeo explicativo
 
 ## Simulação no Falstad
+<img src="CircuitoFalstad.png">
 
 ## Esquemático no EAGLE
 <img src="Esquemático.png">
